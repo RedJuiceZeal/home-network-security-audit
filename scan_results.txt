@@ -1,0 +1,7 @@
+Connected Devices:
+
+• 192.168.1.2 — Personal PC  
+• 192.168.1.3 — iPhone (user)  
+• 192.168.1.4 — Smart TV  
+• 192.168.1.7 — Unknown device [access revoked]  
+• 192.168.1.8 — Home Printer  
